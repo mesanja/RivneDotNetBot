@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUserDto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserDto>
+    <FullName>sanja</FullName>
+    <Email>s</Email>
+    <Gender>Male</Gender>
+    <Date>2017-02-16T01:02:05.5308325+02:00</Date>
+  </UserDto>
+   <UserDto>
+    <FullName>sanja</FullName>
+    <Email>s</Email>
+    <Gender>Male</Gender>
+    <Date>2017-02-15T01:02:05.5308325+02:00</Date>
+  </UserDto>
+  <UserDto>
+    <FullName>sanja</FullName>
+    <Email>s</Email>
+    <Gender>Male</Gender>
+    <Date>2017-02-14T01:02:05.5308325+02:00</Date>
+  </UserDto>
+  <UserDto>
+    <FullName>sanja</FullName>
+    <Email>s</Email>
+    <Gender>Male</Gender>
+    <Date>2017-02-13T01:02:05.5308325+02:00</Date>
+  </UserDto>
+  <UserDto>
+    <FullName>sanja</FullName>
+    <Email>s</Email>
+    <Gender>Male</Gender>
+    <Date>2017-02-12T01:02:05.5308325+02:00</Date>
+  </UserDto>
+</ArrayOfUserDto>
